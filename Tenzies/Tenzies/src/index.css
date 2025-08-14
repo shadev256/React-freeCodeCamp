@@ -1,0 +1,16 @@
+
+.btn-warning{
+  background-color: orange;
+}
+.dice{
+flex: 0 0 calc(20% - 10px);
+  padding: 50px;
+}
+
+.dice_wrapper{
+  padding:20px;
+   gap: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
