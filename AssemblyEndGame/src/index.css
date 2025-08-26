@@ -66,3 +66,25 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+
+.keyboard{
+  display:flex;
+  gap:10px;
+}
+
+.kb_item{
+  padding:10px;
+  background-color: orange;
+}
+.word_section{
+  display:flex;
+  gap: 10px;
+}
+
+.w_item{
+  display:flex;
+  padding:10px;
+  background-color: white;
+  color: black;
+}
